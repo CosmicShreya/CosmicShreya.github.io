@@ -5,3 +5,8 @@ theme: minima
 header_pages:
   - index.md
   - about.md
+title: CosmicShreya
+description: >-
+  My personal blog about astrophysics, cosmology, and programming.
+# baseurl: "" # the subpath of the site, e.g. /blog
+# url: "" # the base hostname & protocol for the site, e.g. http://example.com

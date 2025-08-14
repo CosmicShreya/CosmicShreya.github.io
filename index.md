@@ -1,6 +1,7 @@
+---
 title: About Shreya Mukherjee
 author: Shreya Mukherjee
-
+---
 # CosmicShreya
 
 * 👋 Hi, I’m Shreya Mukherjee, a PhD Research Scholar at IUCAA, Pune: [@CosmicShreya](https://github.com/CosmicShreya/CosmicShreya)
